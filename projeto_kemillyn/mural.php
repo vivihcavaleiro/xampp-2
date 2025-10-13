@@ -60,7 +60,7 @@ $(document).ready(function() {
 $seleciona = mysqli_query($conexao, "SELECT * FROM aluno ORDER BY id DESC");
 while($res = mysqli_fetch_assoc($seleciona)){
     echo '<ul class="recados">';
-    echo '<li><strong>ID:</strong> ' . $res['id'] . '</li>';
+    echo '<li><strong>ID:</strong> ' . $res['ID'] . '</li>';
     echo '<li><strong>Nome:</strong> ' . htmlspecialchars($res['nome']) . '</li>';
     echo '<li><strong>Email:</strong> ' . htmlspecialchars($res['email']) . '</li>';
     echo '<li><strong>Mensagem:</strong> ' . nl2br(htmlspecialchars($res['mensagem'])) . '</li>';
