@@ -37,7 +37,7 @@ $(document).ready(function() {
 });
 </script>
 </head>
-<body>
+<body background=https://wallpapers.com/images/hd/ferrari-f1-jw41si5h6vflh8fr.jpg>
 <div id="main">
 <div id="geral">
 <div id="header">

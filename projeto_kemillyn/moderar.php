@@ -37,7 +37,7 @@ if($editar_id){
 <title>Moderar pedidos</title>
 <link rel="stylesheet" href="style.css"/>
 </head>
-<body>
+<body background=https://wallpapers.com/images/hd/ferrari-f1-jw41si5h6vflh8fr.jpg>
 <div id="main">
 <div id="geral">
 <div id="header">
