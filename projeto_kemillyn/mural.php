@@ -37,9 +37,10 @@ $(document).ready(function() {
 });
 </script>
 </head>
-<body background=https://wallpapers.com/images/hd/ferrari-f1-jw41si5h6vflh8fr.jpg>
+<body background=https://motionbgs.com/media/8045/formula-1-ferrari-car.960x540.mp4>
 <div id="main">
 <div id="geral">
+    
 <div id="header">
     <h1>Mural de pedidos</h1>
 </div>
